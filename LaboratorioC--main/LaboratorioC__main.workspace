@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LaboratorioC__main" Database="" Version="10000">
+  <Project Name="LaboratorioC__main" Path="LaboratorioC__main.project" Active="No"/>
+  <Project Name="Ejemplo13" Path="Sesion3/Sesion3.project" Active="No"/>
+  <Project Name="Ejemplo14" Path="Ejemplo14/Ejemplo14.project" Active="No"/>
+  <Project Name="Ejemplo15" Path="Ejemplo15/Ejemplo15.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="LaboratorioC__main" ConfigName="Debug"/>
+      <Project Name="Ejemplo13" ConfigName="Debug"/>
+      <Project Name="Ejemplo14" ConfigName="Debug"/>
+      <Project Name="Ejemplo15" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="LaboratorioC__main" ConfigName="Debug"/>
+      <Project Name="Ejemplo13" ConfigName="Release"/>
+      <Project Name="Ejemplo14" ConfigName="Release"/>
+      <Project Name="Ejemplo15" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

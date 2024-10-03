@@ -1,0 +1,85 @@
+[{
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\NodoCola.hpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\NodoCola.hpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\NodoCola.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\NodoCola.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\Cola.hpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\Cola.hpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\Cola.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\Cola.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo15\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\NodoPila.hpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\NodoPila.hpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\NodoPila.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\NodoPila.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\Pila.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\Pila.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\pila.hpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\pila.hpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Ejemplo14\\pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\persona.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\persona.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\Persona2.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\Persona2.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\Sesion3\\Persona2.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo02\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo02\\main.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo01\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo01\\main.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo03\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo03\\main.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo06\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo06\\main.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo05\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo05\\main.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Sesion1\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Sesion1\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Sesion1\\main.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo04\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Ejemplo04\\main.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Sesion2\\main.cpp",
+  "directory": "C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main",
+  "command": "clang++ -c C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Sesion2\\main.cpp -o C:\\Users\\alvar\\Downloads\\LaboratorioC--main\\LaboratorioC--main\\LaboratorioC++\\Sesion2\\main.cpp.o  -I. -I.  -g -Wall"
+ }]
